@@ -4,8 +4,6 @@ Pokročilé optimalizační algoritmy (např. Bayesovský TPE sampler v enginu O
 
 Tento koncept představuje návrh vlastní kompozitní objective function, která strojovému učení matematicky svazuje ruce a nutí jej hledat plošnou robustnost.
 
-![Analýza degradace strategie](https://cichra-quant.cz/assets/04_degradation_analysis-2D.webp)
-
 ### Mechanismy pro vynucení robustnosti:
 
 * **Kompozitní Skóre (Composite Score):** Nahrazení izolovaných metrik jedinou komplexní rovnicí, která v každé iteraci současně vyhodnocuje stabilitu, statistickou četnost a ziskovost. Cesta nejmenšího odporu tak vede k nalezení reálné tržní logiky, nikoliv chyby v parametrech.
