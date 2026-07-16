@@ -12,7 +12,7 @@ Tento výzkum zkoumá fenomén přeoptimalizace (curve-fitting), masivní degrad
 * **Paradox přeoptimalizace:** Na datech z testovacího enginu se jasně ukazuje negativní korelace u překombinovaných systémů: čím vyššího zisku strategie dosáhla v In-Sample datech (díky obrovskému množství filtrů), tím hůře dopadla v neviděných OOS datech. 
 * **Logická jádra vs. Brute-force:** Srovnávací test ukázal drtivý rozdíl v přežití (Drop-off rate). Náhodně spojené podprůměrné triggery s mnoha filtry měly šanci na přežití v OOS pouhých 4,95 %. Naproti tomu očištěná jádra strategií, založená na reálné tržní mikrostruktuře (bez vyhlazování dat), prokázala téměř desetinásobnou míru přežití.
 
-![Drop-off Rate a Waterfall analýza](https://cichra-quant.cz/assets/selection-bias_4_waterfall.webp)
+![Ukázka přeoptimalizace](https://cichra-quant.cz/assets/overfit-example-2.webp)
 
 ### Kompletní datová analýza
 
