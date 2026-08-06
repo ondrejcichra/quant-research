@@ -38,3 +38,6 @@ Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné na mém we
 
 * 📁 **[11. In-Sample a Out-of-Sample metodologie: Prevence Data Leakage](11-metodologie-is-oos-leakage/)**
   * *Jak segmentovat dataset, proč je OOS finálním soudcem a jak zabránit úniku dat.*
+
+* 📁 **[12. Hledání klastrů pravděpodobností vs. mýtus jedné ziskové strategie](12-klastry-pravdepodobnosti/)**
+  * *Proč je masivní backtesting pouhou rutinou a jak v zašuměném prostředí identifikovat stabilní strukturální edge.*
