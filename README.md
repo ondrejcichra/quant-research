@@ -41,3 +41,6 @@ Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné na mém we
 
 * 📁 **[12. Hledání klastrů pravděpodobností vs. mýtus jedné ziskové strategie](12-klastry-pravdepodobnosti/)**
   * *Proč je masivní backtesting pouhou rutinou a jak v zašuměném prostředí identifikovat stabilní strukturální edge.*
+ 
+* 📁 **[13. Dvoufázové měření statistického edge: Předcházení overfittingu](13-dvoufazove-mereni-edge/)**
+  * *Triangulace logiky před WFO, eliminace long-biasu a návrh funkcí pro stabilitu clusteru.*
