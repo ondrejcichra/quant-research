@@ -4,7 +4,7 @@ Kvantitativní přístup nespočívá v tom, že naslepo spustíte optimalizačn
 
 Tento výzkum ukazuje, proč je nutné syrový signál nejprve exaktně izolovat a statisticky změřit ještě předtím, než se vůbec zapojí do komplexní Walk-Forward optimalizace (WFO).
 
-![Měření edge](https://cichra-quant.cz/assets/EVC-Cum_Realistic_Net_PnL_USD_signed.webp)
+![Měření edge](https://cichra-quant.cz/assets/EVC-Cum_Net_PMFE10_PMAE10-comb_signed.webp)
 
 ### Klíčové principy výzkumu:
 
