@@ -40,7 +40,7 @@ Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné zde: **[ci
 - 📁 **[05. Měření edge: Kvantitativní metriky a zátěžové testy](05-mereni-edge-strategie/)**
   * *Robustní metriky (SQN, Sortino) a inženýrské testy (Jackknife) pro validaci systému.*
 
-- 📁 **[04. Srovnání výkonnosti AOS s trhem: Alpha, Beta a Risk Parity](04-alpha-vs-beta-srovnani-s-trhem/)**
+- 📁 **[04. Srovnání výkonnosti AOS s trhem: Alpha, Beta a Risk Parity](04-alpha-vs-beta/)**
   * *Proč je procentuální PnL zavádějící a jak správně měřit výkonnost nezávisle na páce.*
 
 - 📁 **[03. Metodologie: Idea-first vs. Brute-force datamining](03-idea-first-vs-brute-force/)**
