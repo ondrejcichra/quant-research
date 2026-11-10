@@ -2,8 +2,9 @@
 
 Tento repozitář slouží jako technický archiv abstraktů a metodologických postupů z vývoje automatických obchodních systémů (AOS). Zaměřuji se na zpracování Level 2 dat, vývoj robustní infrastruktury (Python, DuckDB) a odstraňování kognitivních zkreslení z výzkumu historických dat.
 
-Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné zde: **[cichra-quant.cz](https://cichra-quant.cz/)**
-[Přehled všech výzkumů a článků naleznete zde](https://cichra-quant.cz/posts)
+Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné zde: **[cichra-quant.cz](https://cichra-quant.cz/)**  
+
+[Přehled všech výzkumů a článků naleznete zde](https://cichra-quant.cz/posts)  
 
 ## Knihovna výzkumů
 
