@@ -44,3 +44,6 @@ Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné na mém we
  
 * 📁 **[13. Dvoufázové měření statistického edge: Předcházení overfittingu](13-dvoufazove-mereni-edge/)**
   * *Triangulace logiky před WFO, eliminace long-biasu a návrh funkcí pro stabilitu clusteru.*
+
+* 📁 **[14. Nízkolatenční můstek Sierra Chart → Python: Architektura a kód](14-sierra-chart-python-bridge/)**
+  * *Nativní C++ konektor, obcházení I/O bottlenecků a asynchronní ZeroMQ/DuckDB engine pro non-blocking přenos živých dat.*
