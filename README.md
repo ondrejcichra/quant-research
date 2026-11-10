@@ -4,7 +4,7 @@ Tento repozitář slouží jako technický archiv abstraktů a metodologických 
 
 Kompletní výzkumy, zdrojové kódy a datové exporty jsou dostupné zde: **[cichra-quant.cz](https://cichra-quant.cz/)**  
 
-[Přehled všech výzkumů a článků naleznete zde](https://cichra-quant.cz/posts)  
+[Přehled všech výzkumů a článků zde](https://cichra-quant.cz/posts)  
 
 ## Knihovna výzkumů
 
